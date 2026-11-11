@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Eduardo 👋
 
-<!--
-**eduardo22r/eduardo22r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Illinois Chicago with a focus on Software Engineering and Quantitative Development. I build robust systems, high-performance backends, and practical tools across Python, C++, and R.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tooling
+
+- **Languages:** C++, Python, R, C, SQL
+- **Focus Areas:** Systems Programming, Algorithms & Data Structures, Applied Machine Learning, Quantitative Analysis
+- **Developer Tools:** Git, GitHub, Linux / Unix CLI, GDB
+
+---
+
+### 🔭 Current Focus & Projects
+
+- 🛠️ Building foundational systems and algorithm practicum projects in **C++** and **Python**.
+- 📐 Implementing mathematical models, linear algebra subroutines, and machine learning pipelines.
+- 🎯 Targeting software engineering and quant developer challenges.
+
+
